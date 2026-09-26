@@ -50,6 +50,3 @@ The project analyzes churn based on:
 
 ## Author
 **Amit Bhaskar**
-
-M.Sc. IT Part 1  
-Roll No: 6702
